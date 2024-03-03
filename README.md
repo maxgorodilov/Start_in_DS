@@ -1,2 +1,2 @@
-# data_science
-first_project
+# Data_science
+My_first_project
